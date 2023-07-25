@@ -6,6 +6,7 @@ public class App {
 
         //testing the findMissingStringsMethod here
         //two different test cases
+        //this is the solution to a previous problem
 
         List<String> missingWords = findMissingStrings("I am a hackerrank noob", "am a noob");
 
