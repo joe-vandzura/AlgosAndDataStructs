@@ -5,6 +5,7 @@ public class App {
     public static void main(String[] args) {
 
         //testing the findMissingStringsMethod here
+        //two different test cases
 
         List<String> missingWords = findMissingStrings("I am a hackerrank noob", "am a noob");
 
