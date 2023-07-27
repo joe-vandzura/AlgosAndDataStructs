@@ -4,8 +4,6 @@ public class App {
 
     public static void main(String[] args) {
 
-        //testing the findMissingStringsMethod here
-
         List<String> missingWords = MissingStrings.findMissingStrings("I am a hackerrank noob", "am a noob");
 
         System.out.println(missingWords);
