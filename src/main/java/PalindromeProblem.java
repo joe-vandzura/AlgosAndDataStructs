@@ -1,8 +1,6 @@
 public class PalindromeProblem {
 
     public boolean solve(String s) {
-        // define 2 pointers (forward pointer and backward pointer and compare characters accordingly)
-        //c
 
         int lowIndex = 0;
         int highIndex = s.length()-1;
