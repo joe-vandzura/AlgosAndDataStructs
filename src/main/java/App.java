@@ -12,6 +12,10 @@ public class App {
 //
 //        System.out.println(missingWords);
 
+        FizzBuzzProblem fizzBuzzProblem = new FizzBuzzProblem();
+
+        fizzBuzzProblem.fizzBuzz(5);
+
 
     }
 
