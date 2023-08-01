@@ -11,8 +11,8 @@ public class FizzBuzzProblem {
             if (i % 5 == 0) {
                 concat += "Buzz";
             }
-            if (concat == null) {
-                System.out.println(n);
+            if (concat.equals("")) {
+                System.out.println(i);
             } else {
                 System.out.println(concat);
             }
