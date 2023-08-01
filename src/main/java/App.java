@@ -14,7 +14,7 @@ public class App {
 
         FizzBuzzProblem fizzBuzzProblem = new FizzBuzzProblem();
 
-        fizzBuzzProblem.fizzBuzz(5);
+        fizzBuzzProblem.fizzBuzz(40);
 
 
     }
