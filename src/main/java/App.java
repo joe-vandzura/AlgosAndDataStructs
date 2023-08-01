@@ -4,13 +4,15 @@ public class App {
 
     public static void main(String[] args) {
 
-        List<String> missingWords = MissingStrings.findMissingStrings("I am a hackerrank noob", "am a noob");
+//        List<String> missingWords = MissingStrings.findMissingStrings("I am a hackerrank noob", "am a noob");
+//
+//        System.out.println(missingWords);
+//
+//        missingWords = MissingStrings.findMissingStrings("Testing this method", "this");
+//
+//        System.out.println(missingWords);
 
-        System.out.println(missingWords);
 
-        missingWords = MissingStrings.findMissingStrings("Testing this method", "this");
-
-        System.out.println(missingWords);
     }
 
 
